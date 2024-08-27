@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="rfQc4IOobxPBXET9Sro9">
-    <mxGraphModel dx="2534" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3121" dy="3048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
         <mxCell id="AjhI7jwMzzftFtxTKXYH-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AjhI7jwMzzftFtxTKXYH-14" target="AjhI7jwMzzftFtxTKXYH-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjhI7jwMzzftFtxTKXYH-14" value="InicioEmple" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="AjhI7jwMzzftFtxTKXYH-14" value="InicioEmple" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1805" y="520" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="AjhI7jwMzzftFtxTKXYH-15" value="+ field: type&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AjhI7jwMzzftFtxTKXYH-14" vertex="1">
@@ -141,7 +141,7 @@
         <mxCell id="AjhI7jwMzzftFtxTKXYH-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AjhI7jwMzzftFtxTKXYH-44" target="AjhI7jwMzzftFtxTKXYH-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjhI7jwMzzftFtxTKXYH-44" value="PrimerFragment&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="AjhI7jwMzzftFtxTKXYH-44" value="PrimerFragment&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1645" y="620" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="AjhI7jwMzzftFtxTKXYH-45" value="+ field: type&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="AjhI7jwMzzftFtxTKXYH-44" vertex="1">
@@ -369,7 +369,7 @@
         <mxCell id="oay-P9KaKRltUBFH4BVB-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oay-P9KaKRltUBFH4BVB-3" target="oay-P9KaKRltUBFH4BVB-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oay-P9KaKRltUBFH4BVB-3" value="&lt;div&gt;EditActivity&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="oay-P9KaKRltUBFH4BVB-3" value="&lt;div&gt;EditActivity&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1410" y="335" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oay-P9KaKRltUBFH4BVB-4" value="+ field: type&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oay-P9KaKRltUBFH4BVB-3" vertex="1">
@@ -679,7 +679,7 @@
         <mxCell id="wGBJVavUSbEeQU7mQNjD-3" value="Esta clase se debe elimnar no aporta nada" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2700" y="216" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OhGVkooaGBZUNpl9S0zr-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" edge="1" parent="1" source="oBPGnNYkuoCViNRZtUaH-13" target="AjhI7jwMzzftFtxTKXYH-33">
+        <mxCell id="OhGVkooaGBZUNpl9S0zr-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="1" source="oBPGnNYkuoCViNRZtUaH-13" target="AjhI7jwMzzftFtxTKXYH-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="760" as="sourcePoint" />
             <mxPoint x="870" y="710" as="targetPoint" />
